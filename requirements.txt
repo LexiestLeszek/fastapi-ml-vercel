@@ -1,0 +1,4 @@
+scikit-learn==1.0.2
+fastapi==0.101.0
+fastapi-socketio==0.0.10
+uvicorn==0.23.2
